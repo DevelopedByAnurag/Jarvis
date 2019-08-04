@@ -1,3 +1,20 @@
+<img src="https://developedbyanurag.github.io/Hosted-images/jarvis/jarvis.png" alt="jarvis">
+<p align="center">  
+  <a href="https://docs.python.org/3/download.html">
+    <img src="https://img.shields.io/badge/Python-3.x-green.svg">
+  </a>
+  <a href="https://github.com/DevelopedByAnurag/jarvis/">
+    <img src="https://img.shields.io/badge/Version-v0.4.2 (UnStable beta)-blue.svg">
+  </a>
+  <a href="https://github.com/DevelopedByAnurag/jarvis/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
+  </a> 
+  <a href="https://github.com/DevelopedByAnurag/jarvis/">
+    <img src="https://img.shields.io/badge/OS-Linux-orange.svg">
+  </a>
+</p>
+
+
 # Jarvis
 jarvis stands for just a rather very smart system is nothing but a compilation of various AI systems built by Anurag Batra. List of AI systems include
 
