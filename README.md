@@ -15,11 +15,15 @@
 </p>
 
 
-# Jarvis
-jarvis stands for just a rather very smart system is nothing but a compilation of various AI systems built by Anurag Batra. List of AI systems include
+# JARVIS - Just a Rather Very Smart System
+Jarvis is an attempt to build an Artificial intelligent virtual assistant that will be able to help user performing day to day tasks and promoting touch free computing as user will be able to contol computers using voice and gesture commands.After the Beta versions it is planned to be control house and IOT devices and might be able to run on low computing devices like rasbery pi. 
 
-* dumce  -- nothing but just a chatbot to talk with
-* vision -- A gesture control system built on computer vision
-* edith -- Nothing just a security protocol and future antivirus
-* Veronica -- Nothing but a update and installation system  for jarvis
-* Friday  -- Added feature to chatbot that acts as a assisitant by acting as a midel man between various modules and controling inbuilt functions
+It compilation on the concept of modules where each module performs a separate task and Handel's a different function which gives Jarvis a huge amount of error tolerance as if one module malfunctions there is little to no impact on the rest.
+
+List of Modules include :-
+
+* Dumce  -- dumce Is nothing but just a dumb chatbot that talk with user by accepting voice commands from user and then provides an appropriate response to the user to know more about  dumce  click here   
+* VISION -- A gesture control system built on the top of computer vision that recognizes user gestures and take appropriate actions to know about working and gesture commands click here 
+* EDITH -- It is a security protocol for Jarvis that keeps a check on all security protocols and will also contain it's future antivirus introducing artificial intelligence in cyber security.
+* VERONICA -- it is an update and installation management system that system  for JARVIS that helps keeping Jarvis updated and also install all the dependencies while installation.
+* FRIDAY  -- it's an Added feature to chatbot that acts as a assisitant by acting as a midle man between various modules and controling various offline task and inbuilt functions And various inbuilt commands 
