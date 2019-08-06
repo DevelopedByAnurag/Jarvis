@@ -20,7 +20,7 @@ Jarvis is an attempt to build an Artificial intelligent virtual assistant that w
 
 It compilation on the concept of modules where each module performs a separate task and Handel's a different function which gives Jarvis a huge amount of error tolerance as if one module malfunctions there is little to no impact on the rest.
 
-List of Modules include :-
+### List of Modules include :-
 
 * Dumce  -- dumce Is nothing but just a dumb chatbot that talk with user by accepting voice commands from user and then provides an appropriate response to the user to know more about  dumce  click here   
 * VISION -- A gesture control system built on the top of computer vision that recognizes user gestures and take appropriate actions to know about working and gesture commands click here 
