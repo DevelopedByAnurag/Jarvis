@@ -27,3 +27,8 @@ It compilation on the concept of modules where each module performs a separate t
 * EDITH -- It is a security protocol for Jarvis that keeps a check on all security protocols and will also contain it's future antivirus introducing artificial intelligence in cyber security.
 * VERONICA -- it is an update and installation management system that system  for JARVIS that helps keeping Jarvis updated and also install all the dependencies while installation.
 * FRIDAY  -- it's an Added feature to chatbot that acts as a assisitant by acting as a midle man between various modules and controling various offline task and inbuilt functions And various inbuilt commands 
+
+
+## Special Thanks
+
+I would like to Special Thanks to my mentor, @stackOverflow, who guided me to fix all the bugs and provided great suggestions to improve the bot. I would also like to say thanks to my Guide @Kaggle, which helped to get datasets and guide from the community. They both put a tremendous effort to help me make this project bug free.
