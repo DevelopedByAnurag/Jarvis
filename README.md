@@ -26,7 +26,7 @@ It compilation on the concept of modules where each module performs a separate t
 * VISION -- A gesture control system built on the top of computer vision that recognizes user gestures and take appropriate actions to know about working and gesture commands click here 
 * EDITH -- It is a security protocol for Jarvis that keeps a check on all security protocols and will also contain it's future antivirus introducing artificial intelligence in cyber security.
 * VERONICA -- it is an update and installation management system that system  for JARVIS that helps keeping Jarvis updated and also install all the dependencies while installation.
-* FRIDAY  -- it's an Added feature to chatbot that acts as a assisitant by acting as a midle man between various modules and controling various offline task and inbuilt functions And various inbuilt commands 
+* FRIDAY  -- it's an Added feature to chatbot that acts as a assisitant by acting as a midle man between various modules and coordinating between various offline and online task and inbuilt functions with various inbuilt commands 
 
 
 ## Special Thanks
