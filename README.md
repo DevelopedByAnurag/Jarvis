@@ -22,13 +22,10 @@ It compilation on the concept of modules where each module performs a separate t
 
 ### List of Modules include :-
 
-* Dumce  -- dumce Is nothing but just a dumb chatbot that talk with user by accepting voice commands from user and then provides an appropriate response to the user to know more about  dumce  click here   
+* Jarvis  -- Jarvis Is nothing but just a chatbot that talk with user by accepting voice commands from user and then provides an appropriate response to the user and even controls diffrent products to know more about  dumce  click here   
 * VISION -- A gesture control system built on the top of computer vision that recognizes user gestures and take appropriate actions to know about working and gesture commands click here 
-* EDITH -- It is a security protocol for Jarvis that keeps a check on all security protocols and will also contain it's future antivirus introducing artificial intelligence in cyber security.
-* VERONICA -- it is an update and installation management system that system  for JARVIS that helps keeping Jarvis updated and also install all the dependencies while installation.
-* FRIDAY  -- it's an Added feature to chatbot that acts as a assisitant by acting as a midle man between various modules and coordinating between various offline and online task and inbuilt functions with various inbuilt commands 
 
 
 ## Special Thanks
 
-I would like to Special Thanks to my mentor, @stackOverflow, who guided me to fix all the bugs and provided great suggestions to improve the bot. I would also like to say thanks to my Guide @Kaggle, which helped to get datasets and guide from the community. They both put a tremendous effort to help me make this project bug free.
+I would like to Special Thanks to my mentor, @stackOverflow, who guided me to fix all the bugs and provided great suggestions to improve the bot. I would also like to say thanks to my Guide @Kaggle, which helped to get datasets and guide from the community. They both put a tremendous effort to help me make this project bug free but still if you find a problem you can pig me by simply creating a issue.
