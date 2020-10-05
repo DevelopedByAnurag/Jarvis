@@ -1,5 +1,5 @@
 <img src="https://git-images.myedukit.com/jarvis/jarvis.png" alt="jarvis">
-<p align="center">  
+<p align="center">
   <a href="https://docs.python.org/3/download.html">
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">
   </a>
@@ -8,7 +8,7 @@
   </a>
   <a href="https://github.com/DevelopedByAnurag/jarvis/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
-  </a> 
+  </a>
   <a href="https://github.com/DevelopedByAnurag/jarvis/">
     <img src="https://img.shields.io/badge/OS-Linux-orange.svg">
   </a>
